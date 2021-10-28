@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_lab",
+  "version": "1.0.0",
+  "description": "Some random NodeJS tests.",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachel Parker",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
